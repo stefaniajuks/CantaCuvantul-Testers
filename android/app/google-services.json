@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676228859516",
+    "firebase_url": "https://canta-cuvantul-4bf2a.firebaseio.com",
+    "project_id": "canta-cuvantul-4bf2a",
+    "storage_bucket": "canta-cuvantul-4bf2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676228859516:android:3cd9563fd241546c376bf9",
+        "android_client_info": {
+          "package_name": "com.devisful.canta_cuvantul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676228859516-a7ac63i9jg6frtl32rrjobrp62s2k0th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6pLNknBPrLIRssXDwZgm_n0-hZ4OJLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676228859516-a7ac63i9jg6frtl32rrjobrp62s2k0th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

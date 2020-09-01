@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="279px" height="330px" viewBox="0 0 279 330" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="0" dy="14" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4980392 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_2">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="0" dy="12" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4980392 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <g id="Group" transform="translate(-167 -138)" opacity="0.96">
+    <g filter="url(#filter_1)">
+      <path d="M0 199.5C0 89.3192 89.3192 0 199.5 0C309.681 0 399 89.3192 399 199.5C399 309.681 309.681 399 199.5 399C89.3192 399 0 309.681 0 199.5Z" transform="translate(41 30.49278)" id="Ellipse-2" fill="#0085FF" stroke="none" />
+    </g>
+    <g filter="url(#filter_2)">
+      <path d="M18.2895 297.493C18.2895 297.493 0 373.621 0 263.993C0 154.365 73.8715 10.4955 183.5 10.4955C233.831 10.4955 317.011 -15.88 352 14.9928C393.223 51.3655 407 142.696 407 201.993C407 311.621 272.378 455.242 166 459.993C56.3714 459.993 72.2895 453.493 72.2895 453.493L16.4118 304.45" id="Ellipse-3" fill="#FFA700" stroke="none" />
+    </g>
+    <g filter="url(#filter_2)">
+      <path d="M0 125C0 55.9645 55.9644 0 125 0C194.036 0 250 55.9645 250 125C250 151.049 249.524 187.329 249.5 206C249.5 206 244.573 208.046 240.5 209.5L234.5 211.5C234.5 211.5 234.25 211.625 233 212C231.75 212.375 230 213 230 213L221 215.5L212.5 217L205 218.5L190 220.5L168.5 221L153.5 220L141.5 218.5L120 214L104.5 209L88 202L4 231L0 125" transform="translate(67 208.4927)" id="Ellipse-4" fill="#FF6A00" fill-opacity="0.709803939" stroke="none" />
+    </g>
+  </g>
+</svg>
